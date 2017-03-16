@@ -273,7 +273,7 @@ Decode (Arduino):
 var payloadA[2];
 var payloadB[3];
 
-memcpy(payloadA, 
+memcpy(payloadA, <------------------------------  truncated example 
 ```
 
 ## How to send text?
